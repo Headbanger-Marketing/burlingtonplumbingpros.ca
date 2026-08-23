@@ -1,2 +1,25 @@
 # Burlington Plumbing Pros
-HVAC services in Ontario.
+
+> Burlington Plumbing Pros is a local HVAC company serving Burlington, Halton, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 637-4218  |  Email: contact@burlingtonplumbingpros.ca  |  Website: https://burlingtonplumbingpros.ca
+
+## Key pages
+
+- [Home](https://burlingtonplumbingpros.ca/): Burlington Plumbing Pros homepage with service overview and FAQ
+- [About](https://burlingtonplumbingpros.ca/about/): About the company and service area
+- [Contact](https://burlingtonplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://burlingtonplumbingpros.ca/services/water-heaters/): Water Heaters in Burlington, Ontario
+- [Drain Cleaning](https://burlingtonplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Burlington, Ontario
+- [Repiping](https://burlingtonplumbingpros.ca/services/repiping/): Repiping in Burlington, Ontario
+- [Fixtures & Toilets](https://burlingtonplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Burlington, Ontario
+- [Leak Detection & Repair](https://burlingtonplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Burlington, Ontario
+- [Sump Pumps & Backwater](https://burlingtonplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Burlington, Ontario
+- [Water Softeners & Filtration](https://burlingtonplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Burlington, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Burlington are answered on the homepage.
